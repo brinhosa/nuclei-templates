@@ -1,7 +1,7 @@
-id: open-redirect
+id: open-redirect-plus
 
 info:
-  name: Open URL redirect detection
+  name: Open URL redirect detection 
   author: afaq,melbadry9,Elmahdi,pxmme1337,Regala_,andirrahmani1,geeknik,brinhosa
   severity: low
   description: A user-controlled input redirects users to an external website.
